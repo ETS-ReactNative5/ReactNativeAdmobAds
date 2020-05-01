@@ -80,7 +80,8 @@ export default class App extends Component {
 # AdView Methods
 These internal methods may be accessed through a ref to the AdView.
 
-# AdView Styles
+displayAd()
+As shown in the example above, this displays an interstitial ad when called.
 
 # Suggestions?
 Open Issues. Submit PRs.
