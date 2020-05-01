@@ -67,7 +67,7 @@ export default class AdView extends Component {
     return (
       <KeyboardAvoidingView behavior={(Platform.OS === 'ios')? "padding" : null} style={this.props.style || styles.container} enabled>
         {this.getTopContent()}
-        <ScrollView style={this.props.scrollviewContentStyle || styles.content} contentContainerStyle={this.props.scrollviewContentStyle || styles.contentContainer}>
+        <ScrollView style={this.props.scrollviewContentStyle || styles.content} contentContainerStyle={this.props.scrollviewContentContainerStyle || styles.contentContainer}>
           {this.props.children}
         </ScrollView>
         {this.getBottomContent()}
