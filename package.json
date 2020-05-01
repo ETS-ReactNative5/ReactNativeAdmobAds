@@ -1,0 +1,30 @@
+{
+  "name": "react-native-admob-ads",
+  "version": "1.0.0",
+  "description": "A view to help you display Admob banner ads and interstitial ads in Expo apps.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseafarley/ReactNativeAdmobAds.git"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "admob",
+    "interstital",
+    "ads",
+    "banner"
+  ],
+  "author": "Chelsea Suddens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chelseafarley/ReactNativeAdmobAds/issues"
+  },
+  "homepage": "https://github.com/chelseafarley/ReactNativeAdmobAds#readme",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*",
+    "prop-types": "*",
+    "expo-ads-admob": "*"
+  }
+}
