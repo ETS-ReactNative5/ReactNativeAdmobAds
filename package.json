@@ -24,7 +24,6 @@
   "dependencies": {
     "react": "*",
     "react-native": "*",
-    "prop-types": "*",
     "expo-ads-admob": "*"
   }
 }
