@@ -1,10 +1,10 @@
-# react-native-calendar-picker
+# react-native-admob-ads
 
 [![npm version](https://badge.fury.io/js/react-native-calendar-picker.svg)](https://badge.fury.io/js/react-native-admob-ads) [![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/react-native-admob-ads) ]
 
-This is an Ad View for React Native
+A view to help you display Admob banner ads and interstitial ads in Expo apps.
 
-To use the calendar you just need to:
+To use the AdView you just need to:
 ```
 npm install --save react-native-admob-ads
 ```
